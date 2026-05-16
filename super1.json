@@ -1,0 +1,1807 @@
+{
+  "generated_at": "2026-05-16T23:41:17.782297",
+  "total_combinations": 8,
+  "forecasts": [
+    {
+      "commodity": "beras_super_1",
+      "city_id": "3509",
+      "city_name": "Jember",
+      "forecast_date": "2026-05-16",
+      "horizon_days": 30,
+      "model_mode": "ENSEMBLE",
+      "prophet_weight": 0.455,
+      "avg_price": 13158.48,
+      "trend_pct": -4.18,
+      "mape_estimate": 0.17,
+      "top_features": [],
+      "predictions": [
+        {
+          "date": "2026-05-17",
+          "price_forecast": 15584.23,
+          "price_lower": 11907.490234375,
+          "price_upper": 15741.05,
+          "confidence_width_pct": 24.6
+        },
+        {
+          "date": "2026-05-18",
+          "price_forecast": 15537.52,
+          "price_lower": 11966.5,
+          "price_upper": 15755.92,
+          "confidence_width_pct": 24.39
+        },
+        {
+          "date": "2026-05-19",
+          "price_forecast": 8395.44,
+          "price_lower": 0,
+          "price_upper": 15578.3203125,
+          "confidence_width_pct": 185.56
+        },
+        {
+          "date": "2026-05-20",
+          "price_forecast": 8218.03,
+          "price_lower": 0,
+          "price_upper": 15393.580078125,
+          "confidence_width_pct": 187.31
+        },
+        {
+          "date": "2026-05-21",
+          "price_forecast": 15199.81,
+          "price_lower": 14582.509765625,
+          "price_upper": 15720.31,
+          "confidence_width_pct": 7.49
+        },
+        {
+          "date": "2026-05-22",
+          "price_forecast": 15162.19,
+          "price_lower": 14689.7900390625,
+          "price_upper": 15731.58,
+          "confidence_width_pct": 6.87
+        },
+        {
+          "date": "2026-05-23",
+          "price_forecast": 15050.58,
+          "price_lower": 14646.759765625,
+          "price_upper": 15720.8,
+          "confidence_width_pct": 7.14
+        },
+        {
+          "date": "2026-05-24",
+          "price_forecast": 15031.74,
+          "price_lower": 14615.1796875,
+          "price_upper": 15703.73,
+          "confidence_width_pct": 7.24
+        },
+        {
+          "date": "2026-05-25",
+          "price_forecast": 15047.32,
+          "price_lower": 14643.6396484375,
+          "price_upper": 15707.6,
+          "confidence_width_pct": 7.07
+        },
+        {
+          "date": "2026-05-26",
+          "price_forecast": 7984.9,
+          "price_lower": 0,
+          "price_upper": 14957.58984375,
+          "confidence_width_pct": 187.32
+        },
+        {
+          "date": "2026-05-27",
+          "price_forecast": 7976.77,
+          "price_lower": 0,
+          "price_upper": 14960.9697265625,
+          "confidence_width_pct": 187.56
+        },
+        {
+          "date": "2026-05-28",
+          "price_forecast": 15039.92,
+          "price_lower": 13081.580078125,
+          "price_upper": 15706.51,
+          "confidence_width_pct": 17.45
+        },
+        {
+          "date": "2026-05-29",
+          "price_forecast": 15006.86,
+          "price_lower": 13081.580078125,
+          "price_upper": 15703.62,
+          "confidence_width_pct": 17.47
+        },
+        {
+          "date": "2026-05-30",
+          "price_forecast": 14950.34,
+          "price_lower": 13081.580078125,
+          "price_upper": 15701.21,
+          "confidence_width_pct": 17.52
+        },
+        {
+          "date": "2026-05-31",
+          "price_forecast": 14913.15,
+          "price_lower": 13081.580078125,
+          "price_upper": 15692.31,
+          "confidence_width_pct": 17.51
+        },
+        {
+          "date": "2026-06-01",
+          "price_forecast": 14901.56,
+          "price_lower": 13081.580078125,
+          "price_upper": 15703.76,
+          "confidence_width_pct": 17.6
+        },
+        {
+          "date": "2026-06-02",
+          "price_forecast": 7854.63,
+          "price_lower": 0,
+          "price_upper": 14743.51953125,
+          "confidence_width_pct": 187.7
+        },
+        {
+          "date": "2026-06-03",
+          "price_forecast": 7860.17,
+          "price_lower": 0,
+          "price_upper": 14714.83984375,
+          "confidence_width_pct": 187.21
+        },
+        {
+          "date": "2026-06-04",
+          "price_forecast": 14887.2,
+          "price_lower": 13081.580078125,
+          "price_upper": 15711.38,
+          "confidence_width_pct": 17.66
+        },
+        {
+          "date": "2026-06-05",
+          "price_forecast": 14891.32,
+          "price_lower": 13081.580078125,
+          "price_upper": 15728.73,
+          "confidence_width_pct": 17.78
+        },
+        {
+          "date": "2026-06-06",
+          "price_forecast": 14927.13,
+          "price_lower": 13081.580078125,
+          "price_upper": 15696.78,
+          "confidence_width_pct": 17.52
+        },
+        {
+          "date": "2026-06-07",
+          "price_forecast": 14946.35,
+          "price_lower": 13022.5703125,
+          "price_upper": 15691.67,
+          "confidence_width_pct": 17.86
+        },
+        {
+          "date": "2026-06-08",
+          "price_forecast": 14941.81,
+          "price_lower": 13022.5703125,
+          "price_upper": 15708.31,
+          "confidence_width_pct": 17.97
+        },
+        {
+          "date": "2026-06-09",
+          "price_forecast": 7892.55,
+          "price_lower": 0,
+          "price_upper": 14780.9697265625,
+          "confidence_width_pct": 187.28
+        },
+        {
+          "date": "2026-06-10",
+          "price_forecast": 7892.4,
+          "price_lower": 0,
+          "price_upper": 14789.0400390625,
+          "confidence_width_pct": 187.38
+        },
+        {
+          "date": "2026-06-11",
+          "price_forecast": 14935.03,
+          "price_lower": 13022.5703125,
+          "price_upper": 15714.63,
+          "confidence_width_pct": 18.03
+        },
+        {
+          "date": "2026-06-12",
+          "price_forecast": 14933.02,
+          "price_lower": 13022.5703125,
+          "price_upper": 15731.66,
+          "confidence_width_pct": 18.14
+        },
+        {
+          "date": "2026-06-13",
+          "price_forecast": 14924.61,
+          "price_lower": 13081.580078125,
+          "price_upper": 15726.13,
+          "confidence_width_pct": 17.72
+        },
+        {
+          "date": "2026-06-14",
+          "price_forecast": 14934.38,
+          "price_lower": 12775.4296875,
+          "price_upper": 15716.16,
+          "confidence_width_pct": 19.69
+        },
+        {
+          "date": "2026-06-15",
+          "price_forecast": 14933.4,
+          "price_lower": 12088.0400390625,
+          "price_upper": 15747.22,
+          "confidence_width_pct": 24.5
+        }
+      ]
+    },
+    {
+      "commodity": "beras_super_1",
+      "city_id": "3510",
+      "city_name": "Banyuwangi",
+      "forecast_date": "2026-05-16",
+      "horizon_days": 30,
+      "model_mode": "ENSEMBLE",
+      "prophet_weight": 0.455,
+      "avg_price": 13562.03,
+      "trend_pct": 0.01,
+      "mape_estimate": 0.3,
+      "top_features": [],
+      "predictions": [
+        {
+          "date": "2026-05-17",
+          "price_forecast": 15438.11,
+          "price_lower": 15111.71,
+          "price_upper": 15551.1201171875,
+          "confidence_width_pct": 2.85
+        },
+        {
+          "date": "2026-05-18",
+          "price_forecast": 15451.26,
+          "price_lower": 15101.06,
+          "price_upper": 15585.2197265625,
+          "confidence_width_pct": 3.13
+        },
+        {
+          "date": "2026-05-19",
+          "price_forecast": 8504.57,
+          "price_lower": 0,
+          "price_upper": 15591.7099609375,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-20",
+          "price_forecast": 8504.45,
+          "price_lower": 0,
+          "price_upper": 15591.490234375,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-21",
+          "price_forecast": 15433.94,
+          "price_lower": 15057.69,
+          "price_upper": 15591.25,
+          "confidence_width_pct": 3.46
+        },
+        {
+          "date": "2026-05-22",
+          "price_forecast": 15409.65,
+          "price_lower": 15051.78,
+          "price_upper": 15550.91015625,
+          "confidence_width_pct": 3.24
+        },
+        {
+          "date": "2026-05-23",
+          "price_forecast": 15403.87,
+          "price_lower": 15048.21,
+          "price_upper": 15544.2802734375,
+          "confidence_width_pct": 3.22
+        },
+        {
+          "date": "2026-05-24",
+          "price_forecast": 15397.78,
+          "price_lower": 15029.67,
+          "price_upper": 15544.76953125,
+          "confidence_width_pct": 3.35
+        },
+        {
+          "date": "2026-05-25",
+          "price_forecast": 15396.29,
+          "price_lower": 15017.25,
+          "price_upper": 15547.900390625,
+          "confidence_width_pct": 3.45
+        },
+        {
+          "date": "2026-05-26",
+          "price_forecast": 8479.02,
+          "price_lower": 0,
+          "price_upper": 15544.8701171875,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-27",
+          "price_forecast": 8480.57,
+          "price_lower": 0,
+          "price_upper": 15547.7001953125,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-28",
+          "price_forecast": 15384.11,
+          "price_lower": 14987.22,
+          "price_upper": 15547.3896484375,
+          "confidence_width_pct": 3.64
+        },
+        {
+          "date": "2026-05-29",
+          "price_forecast": 15388.95,
+          "price_lower": 14993.93,
+          "price_upper": 15554.169921875,
+          "confidence_width_pct": 3.64
+        },
+        {
+          "date": "2026-05-30",
+          "price_forecast": 15388.85,
+          "price_lower": 14993.21,
+          "price_upper": 15551.2900390625,
+          "confidence_width_pct": 3.63
+        },
+        {
+          "date": "2026-05-31",
+          "price_forecast": 15388.23,
+          "price_lower": 14982.62,
+          "price_upper": 15554.8603515625,
+          "confidence_width_pct": 3.72
+        },
+        {
+          "date": "2026-06-01",
+          "price_forecast": 15388.98,
+          "price_lower": 14987.29,
+          "price_upper": 15554.919921875,
+          "confidence_width_pct": 3.69
+        },
+        {
+          "date": "2026-06-02",
+          "price_forecast": 8484.53,
+          "price_lower": 0,
+          "price_upper": 15554.9599609375,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-06-03",
+          "price_forecast": 8484.58,
+          "price_lower": 0,
+          "price_upper": 15555.0595703125,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-06-04",
+          "price_forecast": 15388.69,
+          "price_lower": 14982.03,
+          "price_upper": 15554.169921875,
+          "confidence_width_pct": 3.72
+        },
+        {
+          "date": "2026-06-05",
+          "price_forecast": 15389.24,
+          "price_lower": 14970.95,
+          "price_upper": 15545.7802734375,
+          "confidence_width_pct": 3.74
+        },
+        {
+          "date": "2026-06-06",
+          "price_forecast": 15393.99,
+          "price_lower": 15002.76,
+          "price_upper": 15544.6396484375,
+          "confidence_width_pct": 3.52
+        },
+        {
+          "date": "2026-06-07",
+          "price_forecast": 15395.2,
+          "price_lower": 14996.5,
+          "price_upper": 15544.6201171875,
+          "confidence_width_pct": 3.56
+        },
+        {
+          "date": "2026-06-08",
+          "price_forecast": 15399.6,
+          "price_lower": 15001.57,
+          "price_upper": 15544.669921875,
+          "confidence_width_pct": 3.53
+        },
+        {
+          "date": "2026-06-09",
+          "price_forecast": 8478.94,
+          "price_lower": 0,
+          "price_upper": 15544.7197265625,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-06-10",
+          "price_forecast": 8478.81,
+          "price_lower": 0,
+          "price_upper": 15544.490234375,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-06-11",
+          "price_forecast": 15409.61,
+          "price_lower": 15017.59,
+          "price_upper": 15544.6396484375,
+          "confidence_width_pct": 3.42
+        },
+        {
+          "date": "2026-06-12",
+          "price_forecast": 15417.64,
+          "price_lower": 15039.36,
+          "price_upper": 15544.6396484375,
+          "confidence_width_pct": 3.28
+        },
+        {
+          "date": "2026-06-13",
+          "price_forecast": 15429.28,
+          "price_lower": 15046.05,
+          "price_upper": 15551.23046875,
+          "confidence_width_pct": 3.27
+        },
+        {
+          "date": "2026-06-14",
+          "price_forecast": 15432.84,
+          "price_lower": 15060.79,
+          "price_upper": 15551.0302734375,
+          "confidence_width_pct": 3.18
+        },
+        {
+          "date": "2026-06-15",
+          "price_forecast": 15439.46,
+          "price_lower": 15057.2,
+          "price_upper": 15558.01,
+          "confidence_width_pct": 3.24
+        }
+      ]
+    },
+    {
+      "commodity": "beras_super_1",
+      "city_id": "3529",
+      "city_name": "Sumenep",
+      "forecast_date": "2026-05-16",
+      "horizon_days": 30,
+      "model_mode": "ENSEMBLE",
+      "prophet_weight": 0.455,
+      "avg_price": 13051.99,
+      "trend_pct": -1.26,
+      "mape_estimate": 0.31,
+      "top_features": [],
+      "predictions": [
+        {
+          "date": "2026-05-17",
+          "price_forecast": 14894.0,
+          "price_lower": 14665.98,
+          "price_upper": 15318.34,
+          "confidence_width_pct": 4.38
+        },
+        {
+          "date": "2026-05-18",
+          "price_forecast": 14903.91,
+          "price_lower": 14706.81,
+          "price_upper": 15406.49,
+          "confidence_width_pct": 4.69
+        },
+        {
+          "date": "2026-05-19",
+          "price_forecast": 8054.61,
+          "price_lower": 0,
+          "price_upper": 14766.7900390625,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-20",
+          "price_forecast": 8049.59,
+          "price_lower": 0,
+          "price_upper": 14757.580078125,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-21",
+          "price_forecast": 14901.68,
+          "price_lower": 14756.8095703125,
+          "price_upper": 15435.17,
+          "confidence_width_pct": 4.55
+        },
+        {
+          "date": "2026-05-22",
+          "price_forecast": 14911.19,
+          "price_lower": 14740.09,
+          "price_upper": 15457.86,
+          "confidence_width_pct": 4.81
+        },
+        {
+          "date": "2026-05-23",
+          "price_forecast": 14924.76,
+          "price_lower": 14764.2197265625,
+          "price_upper": 15498.96,
+          "confidence_width_pct": 4.92
+        },
+        {
+          "date": "2026-05-24",
+          "price_forecast": 14941.58,
+          "price_lower": 14762.5595703125,
+          "price_upper": 15499.45,
+          "confidence_width_pct": 4.93
+        },
+        {
+          "date": "2026-05-25",
+          "price_forecast": 14954.89,
+          "price_lower": 14761.2802734375,
+          "price_upper": 15516.65,
+          "confidence_width_pct": 5.05
+        },
+        {
+          "date": "2026-05-26",
+          "price_forecast": 8052.0,
+          "price_lower": 0,
+          "price_upper": 14761.990234375,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-27",
+          "price_forecast": 8054.27,
+          "price_lower": 0,
+          "price_upper": 14766.169921875,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-28",
+          "price_forecast": 14982.17,
+          "price_lower": 14766.490234375,
+          "price_upper": 15589.07,
+          "confidence_width_pct": 5.49
+        },
+        {
+          "date": "2026-05-29",
+          "price_forecast": 14986.99,
+          "price_lower": 14765.91015625,
+          "price_upper": 15578.81,
+          "confidence_width_pct": 5.42
+        },
+        {
+          "date": "2026-05-30",
+          "price_forecast": 14999.07,
+          "price_lower": 14766.0,
+          "price_upper": 15614.45,
+          "confidence_width_pct": 5.66
+        },
+        {
+          "date": "2026-05-31",
+          "price_forecast": 15014.05,
+          "price_lower": 14764.419921875,
+          "price_upper": 15674.33,
+          "confidence_width_pct": 6.06
+        },
+        {
+          "date": "2026-06-01",
+          "price_forecast": 15023.49,
+          "price_lower": 14760.349609375,
+          "price_upper": 15705.75,
+          "confidence_width_pct": 6.29
+        },
+        {
+          "date": "2026-06-02",
+          "price_forecast": 8051.46,
+          "price_lower": 0,
+          "price_upper": 14761.01953125,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-06-03",
+          "price_forecast": 8045.03,
+          "price_lower": 0,
+          "price_upper": 14753.8896484375,
+          "confidence_width_pct": 183.39
+        },
+        {
+          "date": "2026-06-04",
+          "price_forecast": 14889.38,
+          "price_lower": 14485.400390625,
+          "price_upper": 15709.64,
+          "confidence_width_pct": 8.22
+        },
+        {
+          "date": "2026-06-05",
+          "price_forecast": 14840.1,
+          "price_lower": 14390.9697265625,
+          "price_upper": 15743.02,
+          "confidence_width_pct": 9.11
+        },
+        {
+          "date": "2026-06-06",
+          "price_forecast": 14849.72,
+          "price_lower": 14391.5,
+          "price_upper": 15744.46,
+          "confidence_width_pct": 9.11
+        },
+        {
+          "date": "2026-06-07",
+          "price_forecast": 14855.45,
+          "price_lower": 14377.349609375,
+          "price_upper": 15810.67,
+          "confidence_width_pct": 9.65
+        },
+        {
+          "date": "2026-06-08",
+          "price_forecast": 14872.33,
+          "price_lower": 14390.5302734375,
+          "price_upper": 15813.74,
+          "confidence_width_pct": 9.57
+        },
+        {
+          "date": "2026-06-09",
+          "price_forecast": 7862.3,
+          "price_lower": 0,
+          "price_upper": 14497.2001953125,
+          "confidence_width_pct": 184.39
+        },
+        {
+          "date": "2026-06-10",
+          "price_forecast": 7845.9,
+          "price_lower": 0,
+          "price_upper": 14511.1396484375,
+          "confidence_width_pct": 184.95
+        },
+        {
+          "date": "2026-06-11",
+          "price_forecast": 14846.52,
+          "price_lower": 14318.98046875,
+          "price_upper": 15875.75,
+          "confidence_width_pct": 10.49
+        },
+        {
+          "date": "2026-06-12",
+          "price_forecast": 14811.42,
+          "price_lower": 14249.91015625,
+          "price_upper": 15860.43,
+          "confidence_width_pct": 10.87
+        },
+        {
+          "date": "2026-06-13",
+          "price_forecast": 14722.55,
+          "price_lower": 14068.099609375,
+          "price_upper": 15896.13,
+          "confidence_width_pct": 12.42
+        },
+        {
+          "date": "2026-06-14",
+          "price_forecast": 14712.37,
+          "price_lower": 14021.8798828125,
+          "price_upper": 15919.89,
+          "confidence_width_pct": 12.9
+        },
+        {
+          "date": "2026-06-15",
+          "price_forecast": 14706.89,
+          "price_lower": 13990.2001953125,
+          "price_upper": 15962.2,
+          "confidence_width_pct": 13.41
+        }
+      ]
+    },
+    {
+      "commodity": "beras_super_1",
+      "city_id": "3571",
+      "city_name": "Kota Kediri",
+      "forecast_date": "2026-05-16",
+      "horizon_days": 30,
+      "model_mode": "ENSEMBLE",
+      "prophet_weight": 0.455,
+      "avg_price": 12924.46,
+      "trend_pct": -2.78,
+      "mape_estimate": 0.66,
+      "top_features": [],
+      "predictions": [
+        {
+          "date": "2026-05-17",
+          "price_forecast": 15165.58,
+          "price_lower": 14204.849609375,
+          "price_upper": 15345.7,
+          "confidence_width_pct": 7.52
+        },
+        {
+          "date": "2026-05-18",
+          "price_forecast": 15119.53,
+          "price_lower": 15014.9501953125,
+          "price_upper": 15347.56,
+          "confidence_width_pct": 2.2
+        },
+        {
+          "date": "2026-05-19",
+          "price_forecast": 8132.4,
+          "price_lower": 0,
+          "price_upper": 14909.400390625,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-20",
+          "price_forecast": 8116.89,
+          "price_lower": 0,
+          "price_upper": 14880.9697265625,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-21",
+          "price_forecast": 14955.49,
+          "price_lower": 14718.1201171875,
+          "price_upper": 15341.75,
+          "confidence_width_pct": 4.17
+        },
+        {
+          "date": "2026-05-22",
+          "price_forecast": 14911.78,
+          "price_lower": 14640.8896484375,
+          "price_upper": 15341.94,
+          "confidence_width_pct": 4.7
+        },
+        {
+          "date": "2026-05-23",
+          "price_forecast": 14866.83,
+          "price_lower": 14558.23046875,
+          "price_upper": 15337.59,
+          "confidence_width_pct": 5.24
+        },
+        {
+          "date": "2026-05-24",
+          "price_forecast": 14825.08,
+          "price_lower": 14478.240234375,
+          "price_upper": 15348.23,
+          "confidence_width_pct": 5.87
+        },
+        {
+          "date": "2026-05-25",
+          "price_forecast": 14786.15,
+          "price_lower": 14407.900390625,
+          "price_upper": 15349.72,
+          "confidence_width_pct": 6.37
+        },
+        {
+          "date": "2026-05-26",
+          "price_forecast": 7822.59,
+          "price_lower": 0,
+          "price_upper": 14563.48046875,
+          "confidence_width_pct": 186.17
+        },
+        {
+          "date": "2026-05-27",
+          "price_forecast": 7786.93,
+          "price_lower": 0,
+          "price_upper": 14527.01953125,
+          "confidence_width_pct": 186.56
+        },
+        {
+          "date": "2026-05-28",
+          "price_forecast": 14677.77,
+          "price_lower": 14212.259765625,
+          "price_upper": 15351.99,
+          "confidence_width_pct": 7.77
+        },
+        {
+          "date": "2026-05-29",
+          "price_forecast": 14673.29,
+          "price_lower": 14205.2197265625,
+          "price_upper": 15341.43,
+          "confidence_width_pct": 7.74
+        },
+        {
+          "date": "2026-05-30",
+          "price_forecast": 14655.6,
+          "price_lower": 14170.0703125,
+          "price_upper": 15354.42,
+          "confidence_width_pct": 8.08
+        },
+        {
+          "date": "2026-05-31",
+          "price_forecast": 14663.82,
+          "price_lower": 14178.4404296875,
+          "price_upper": 15357.25,
+          "confidence_width_pct": 8.04
+        },
+        {
+          "date": "2026-06-01",
+          "price_forecast": 14659.06,
+          "price_lower": 14166.7802734375,
+          "price_upper": 15372.81,
+          "confidence_width_pct": 8.23
+        },
+        {
+          "date": "2026-06-02",
+          "price_forecast": 7728.16,
+          "price_lower": 0,
+          "price_upper": 14386.1796875,
+          "confidence_width_pct": 186.15
+        },
+        {
+          "date": "2026-06-03",
+          "price_forecast": 7727.18,
+          "price_lower": 0,
+          "price_upper": 14322.4599609375,
+          "confidence_width_pct": 185.35
+        },
+        {
+          "date": "2026-06-04",
+          "price_forecast": 14664.85,
+          "price_lower": 14164.5595703125,
+          "price_upper": 15391.08,
+          "confidence_width_pct": 8.36
+        },
+        {
+          "date": "2026-06-05",
+          "price_forecast": 14664.67,
+          "price_lower": 14159.009765625,
+          "price_upper": 15408.03,
+          "confidence_width_pct": 8.52
+        },
+        {
+          "date": "2026-06-06",
+          "price_forecast": 14669.46,
+          "price_lower": 14158.3095703125,
+          "price_upper": 15409.3,
+          "confidence_width_pct": 8.53
+        },
+        {
+          "date": "2026-06-07",
+          "price_forecast": 14676.5,
+          "price_lower": 14157.490234375,
+          "price_upper": 15437.07,
+          "confidence_width_pct": 8.72
+        },
+        {
+          "date": "2026-06-08",
+          "price_forecast": 14690.21,
+          "price_lower": 14172.5,
+          "price_upper": 15448.75,
+          "confidence_width_pct": 8.69
+        },
+        {
+          "date": "2026-06-09",
+          "price_forecast": 7731.79,
+          "price_lower": 0,
+          "price_upper": 14229.349609375,
+          "confidence_width_pct": 184.04
+        },
+        {
+          "date": "2026-06-10",
+          "price_forecast": 7732.19,
+          "price_lower": 0,
+          "price_upper": 14235.8095703125,
+          "confidence_width_pct": 184.11
+        },
+        {
+          "date": "2026-06-11",
+          "price_forecast": 14710.62,
+          "price_lower": 14176.0,
+          "price_upper": 15501.37,
+          "confidence_width_pct": 9.01
+        },
+        {
+          "date": "2026-06-12",
+          "price_forecast": 14716.87,
+          "price_lower": 14175.7998046875,
+          "price_upper": 15519.37,
+          "confidence_width_pct": 9.13
+        },
+        {
+          "date": "2026-06-13",
+          "price_forecast": 14724.17,
+          "price_lower": 14173.76953125,
+          "price_upper": 15552.81,
+          "confidence_width_pct": 9.37
+        },
+        {
+          "date": "2026-06-14",
+          "price_forecast": 14735.11,
+          "price_lower": 14174.7900390625,
+          "price_upper": 15566.86,
+          "confidence_width_pct": 9.45
+        },
+        {
+          "date": "2026-06-15",
+          "price_forecast": 14743.25,
+          "price_lower": 14175.0302734375,
+          "price_upper": 15607.02,
+          "confidence_width_pct": 9.71
+        }
+      ]
+    },
+    {
+      "commodity": "beras_super_1",
+      "city_id": "3573",
+      "city_name": "Kota Malang",
+      "forecast_date": "2026-05-16",
+      "horizon_days": 30,
+      "model_mode": "ENSEMBLE",
+      "prophet_weight": 0.455,
+      "avg_price": 14172.65,
+      "trend_pct": -0.22,
+      "mape_estimate": 1.46,
+      "top_features": [],
+      "predictions": [
+        {
+          "date": "2026-05-17",
+          "price_forecast": 16128.76,
+          "price_lower": 12537.099609375,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 23.33
+        },
+        {
+          "date": "2026-05-18",
+          "price_forecast": 16140.92,
+          "price_lower": 12562.3095703125,
+          "price_upper": 16289.099609375,
+          "confidence_width_pct": 23.09
+        },
+        {
+          "date": "2026-05-19",
+          "price_forecast": 8880.8,
+          "price_lower": 0,
+          "price_upper": 16307.900390625,
+          "confidence_width_pct": 183.63
+        },
+        {
+          "date": "2026-05-20",
+          "price_forecast": 8876.92,
+          "price_lower": 0,
+          "price_upper": 16301.0703125,
+          "confidence_width_pct": 183.63
+        },
+        {
+          "date": "2026-05-21",
+          "price_forecast": 16124.65,
+          "price_lower": 12861.3603515625,
+          "price_upper": 16300.2001953125,
+          "confidence_width_pct": 21.33
+        },
+        {
+          "date": "2026-05-22",
+          "price_forecast": 16125.08,
+          "price_lower": 12804.4697265625,
+          "price_upper": 16300.2001953125,
+          "confidence_width_pct": 21.68
+        },
+        {
+          "date": "2026-05-23",
+          "price_forecast": 16117.6,
+          "price_lower": 12866.3095703125,
+          "price_upper": 16300.2001953125,
+          "confidence_width_pct": 21.31
+        },
+        {
+          "date": "2026-05-24",
+          "price_forecast": 16115.19,
+          "price_lower": 12820.6201171875,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 21.59
+        },
+        {
+          "date": "2026-05-25",
+          "price_forecast": 16111.12,
+          "price_lower": 12820.6201171875,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 21.6
+        },
+        {
+          "date": "2026-05-26",
+          "price_forecast": 8866.71,
+          "price_lower": 0,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 183.84
+        },
+        {
+          "date": "2026-05-27",
+          "price_forecast": 8866.97,
+          "price_lower": 0,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 183.83
+        },
+        {
+          "date": "2026-05-28",
+          "price_forecast": 16102.31,
+          "price_lower": 12792.0595703125,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 21.79
+        },
+        {
+          "date": "2026-05-29",
+          "price_forecast": 16101.4,
+          "price_lower": 12655.08984375,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 22.64
+        },
+        {
+          "date": "2026-05-30",
+          "price_forecast": 16097.4,
+          "price_lower": 12537.099609375,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 23.38
+        },
+        {
+          "date": "2026-05-31",
+          "price_forecast": 16095.65,
+          "price_lower": 12537.099609375,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 23.38
+        },
+        {
+          "date": "2026-06-01",
+          "price_forecast": 16092.08,
+          "price_lower": 12537.099609375,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 23.38
+        },
+        {
+          "date": "2026-06-02",
+          "price_forecast": 8866.33,
+          "price_lower": 0,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 183.84
+        },
+        {
+          "date": "2026-06-03",
+          "price_forecast": 8866.33,
+          "price_lower": 0,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 183.84
+        },
+        {
+          "date": "2026-06-04",
+          "price_forecast": 16085.83,
+          "price_lower": 12537.099609375,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 23.39
+        },
+        {
+          "date": "2026-06-05",
+          "price_forecast": 16086.39,
+          "price_lower": 12537.099609375,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 23.39
+        },
+        {
+          "date": "2026-06-06",
+          "price_forecast": 16084.09,
+          "price_lower": 12537.099609375,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 23.4
+        },
+        {
+          "date": "2026-06-07",
+          "price_forecast": 16084.81,
+          "price_lower": 12537.099609375,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 23.4
+        },
+        {
+          "date": "2026-06-08",
+          "price_forecast": 16083.43,
+          "price_lower": 12537.099609375,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 23.4
+        },
+        {
+          "date": "2026-06-09",
+          "price_forecast": 8866.5,
+          "price_lower": 0,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 183.84
+        },
+        {
+          "date": "2026-06-10",
+          "price_forecast": 8866.51,
+          "price_lower": 0,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 183.84
+        },
+        {
+          "date": "2026-06-11",
+          "price_forecast": 16084.71,
+          "price_lower": 12537.099609375,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 23.4
+        },
+        {
+          "date": "2026-06-12",
+          "price_forecast": 16087.99,
+          "price_lower": 12537.099609375,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 23.39
+        },
+        {
+          "date": "2026-06-13",
+          "price_forecast": 16088.42,
+          "price_lower": 12537.099609375,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 23.39
+        },
+        {
+          "date": "2026-06-14",
+          "price_forecast": 16091.69,
+          "price_lower": 12537.099609375,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 23.39
+        },
+        {
+          "date": "2026-06-15",
+          "price_forecast": 16092.97,
+          "price_lower": 12537.099609375,
+          "price_upper": 16300.16015625,
+          "confidence_width_pct": 23.38
+        }
+      ]
+    },
+    {
+      "commodity": "beras_super_1",
+      "city_id": "3574",
+      "city_name": "Kota Probolinggo",
+      "forecast_date": "2026-05-16",
+      "horizon_days": 30,
+      "model_mode": "ENSEMBLE",
+      "prophet_weight": 0.455,
+      "avg_price": 12897.19,
+      "trend_pct": -7.36,
+      "mape_estimate": 1.36,
+      "top_features": [],
+      "predictions": [
+        {
+          "date": "2026-05-17",
+          "price_forecast": 15809.67,
+          "price_lower": 13696.9501953125,
+          "price_upper": 16089.07,
+          "confidence_width_pct": 15.13
+        },
+        {
+          "date": "2026-05-18",
+          "price_forecast": 15712.1,
+          "price_lower": 14790.4697265625,
+          "price_upper": 16067.4,
+          "confidence_width_pct": 8.13
+        },
+        {
+          "date": "2026-05-19",
+          "price_forecast": 8373.37,
+          "price_lower": 0,
+          "price_upper": 15351.1796875,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-20",
+          "price_forecast": 8152.11,
+          "price_lower": 0,
+          "price_upper": 15214.8203125,
+          "confidence_width_pct": 186.64
+        },
+        {
+          "date": "2026-05-21",
+          "price_forecast": 15196.29,
+          "price_lower": 14664.26953125,
+          "price_upper": 16010.39,
+          "confidence_width_pct": 8.86
+        },
+        {
+          "date": "2026-05-22",
+          "price_forecast": 15086.41,
+          "price_lower": 14488.0,
+          "price_upper": 15983.11,
+          "confidence_width_pct": 9.91
+        },
+        {
+          "date": "2026-05-23",
+          "price_forecast": 14933.34,
+          "price_lower": 14217.76953125,
+          "price_upper": 15969.93,
+          "confidence_width_pct": 11.73
+        },
+        {
+          "date": "2026-05-24",
+          "price_forecast": 14824.24,
+          "price_lower": 14031.91015625,
+          "price_upper": 15959.42,
+          "confidence_width_pct": 13.0
+        },
+        {
+          "date": "2026-05-25",
+          "price_forecast": 14811.14,
+          "price_lower": 14026.2802734375,
+          "price_upper": 15930.28,
+          "confidence_width_pct": 12.86
+        },
+        {
+          "date": "2026-05-26",
+          "price_forecast": 7638.05,
+          "price_lower": 0,
+          "price_upper": 14554.7001953125,
+          "confidence_width_pct": 190.56
+        },
+        {
+          "date": "2026-05-27",
+          "price_forecast": 7683.84,
+          "price_lower": 0,
+          "price_upper": 14314.3095703125,
+          "confidence_width_pct": 186.29
+        },
+        {
+          "date": "2026-05-28",
+          "price_forecast": 14727.86,
+          "price_lower": 13934.4404296875,
+          "price_upper": 15868.0,
+          "confidence_width_pct": 13.13
+        },
+        {
+          "date": "2026-05-29",
+          "price_forecast": 14621.88,
+          "price_lower": 13744.8603515625,
+          "price_upper": 15859.19,
+          "confidence_width_pct": 14.46
+        },
+        {
+          "date": "2026-05-30",
+          "price_forecast": 14603.57,
+          "price_lower": 13715.9404296875,
+          "price_upper": 15855.77,
+          "confidence_width_pct": 14.65
+        },
+        {
+          "date": "2026-05-31",
+          "price_forecast": 14597.95,
+          "price_lower": 13712.4404296875,
+          "price_upper": 15858.43,
+          "confidence_width_pct": 14.7
+        },
+        {
+          "date": "2026-06-01",
+          "price_forecast": 14588.54,
+          "price_lower": 13704.7001953125,
+          "price_upper": 15852.31,
+          "confidence_width_pct": 14.72
+        },
+        {
+          "date": "2026-06-02",
+          "price_forecast": 7457.75,
+          "price_lower": 0,
+          "price_upper": 13998.0595703125,
+          "confidence_width_pct": 187.7
+        },
+        {
+          "date": "2026-06-03",
+          "price_forecast": 7455.26,
+          "price_lower": 0,
+          "price_upper": 14005.4404296875,
+          "confidence_width_pct": 187.86
+        },
+        {
+          "date": "2026-06-04",
+          "price_forecast": 14554.88,
+          "price_lower": 13205.669921875,
+          "price_upper": 15816.07,
+          "confidence_width_pct": 17.93
+        },
+        {
+          "date": "2026-06-05",
+          "price_forecast": 14562.82,
+          "price_lower": 13029.16015625,
+          "price_upper": 15828.33,
+          "confidence_width_pct": 19.22
+        },
+        {
+          "date": "2026-06-06",
+          "price_forecast": 14547.31,
+          "price_lower": 13260.740234375,
+          "price_upper": 15835.92,
+          "confidence_width_pct": 17.7
+        },
+        {
+          "date": "2026-06-07",
+          "price_forecast": 14547.36,
+          "price_lower": 13032.83984375,
+          "price_upper": 15849.33,
+          "confidence_width_pct": 19.36
+        },
+        {
+          "date": "2026-06-08",
+          "price_forecast": 14551.55,
+          "price_lower": 13063.7900390625,
+          "price_upper": 15876.32,
+          "confidence_width_pct": 19.33
+        },
+        {
+          "date": "2026-06-09",
+          "price_forecast": 7434.66,
+          "price_lower": 0,
+          "price_upper": 13872.7099609375,
+          "confidence_width_pct": 186.6
+        },
+        {
+          "date": "2026-06-10",
+          "price_forecast": 7434.64,
+          "price_lower": 0,
+          "price_upper": 13875.0703125,
+          "confidence_width_pct": 186.63
+        },
+        {
+          "date": "2026-06-11",
+          "price_forecast": 14560.15,
+          "price_lower": 13293.509765625,
+          "price_upper": 15892.25,
+          "confidence_width_pct": 17.85
+        },
+        {
+          "date": "2026-06-12",
+          "price_forecast": 14574.07,
+          "price_lower": 13438.23046875,
+          "price_upper": 15933.0,
+          "confidence_width_pct": 17.12
+        },
+        {
+          "date": "2026-06-13",
+          "price_forecast": 14597.73,
+          "price_lower": 13632.6396484375,
+          "price_upper": 15990.65,
+          "confidence_width_pct": 16.15
+        },
+        {
+          "date": "2026-06-14",
+          "price_forecast": 14631.35,
+          "price_lower": 13670.2998046875,
+          "price_upper": 16008.58,
+          "confidence_width_pct": 15.98
+        },
+        {
+          "date": "2026-06-15",
+          "price_forecast": 14645.78,
+          "price_lower": 13676.150390625,
+          "price_upper": 16041.43,
+          "confidence_width_pct": 16.15
+        }
+      ]
+    },
+    {
+      "commodity": "beras_super_1",
+      "city_id": "3577",
+      "city_name": "Kota Madiun",
+      "forecast_date": "2026-05-16",
+      "horizon_days": 30,
+      "model_mode": "ENSEMBLE",
+      "prophet_weight": 0.455,
+      "avg_price": 13820.61,
+      "trend_pct": -1.38,
+      "mape_estimate": 0.0,
+      "top_features": [],
+      "predictions": [
+        {
+          "date": "2026-05-17",
+          "price_forecast": 15925.1,
+          "price_lower": 15677.18,
+          "price_upper": 15999.7802734375,
+          "confidence_width_pct": 2.03
+        },
+        {
+          "date": "2026-05-18",
+          "price_forecast": 15791.97,
+          "price_lower": 15652.51,
+          "price_upper": 15978.79,
+          "confidence_width_pct": 2.07
+        },
+        {
+          "date": "2026-05-19",
+          "price_forecast": 8582.96,
+          "price_lower": 0,
+          "price_upper": 15735.4296875,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-20",
+          "price_forecast": 8576.34,
+          "price_lower": 0,
+          "price_upper": 15723.2900390625,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-21",
+          "price_forecast": 15746.27,
+          "price_lower": 15604.57,
+          "price_upper": 15934.32,
+          "confidence_width_pct": 2.09
+        },
+        {
+          "date": "2026-05-22",
+          "price_forecast": 15738.51,
+          "price_lower": 15601.09,
+          "price_upper": 15915.69,
+          "confidence_width_pct": 2.0
+        },
+        {
+          "date": "2026-05-23",
+          "price_forecast": 15741.0,
+          "price_lower": 15576.42,
+          "price_upper": 15909.56,
+          "confidence_width_pct": 2.12
+        },
+        {
+          "date": "2026-05-24",
+          "price_forecast": 15740.64,
+          "price_lower": 15557.18,
+          "price_upper": 15900.12,
+          "confidence_width_pct": 2.18
+        },
+        {
+          "date": "2026-05-25",
+          "price_forecast": 15735.33,
+          "price_lower": 15540.01,
+          "price_upper": 15868.27,
+          "confidence_width_pct": 2.09
+        },
+        {
+          "date": "2026-05-26",
+          "price_forecast": 8596.97,
+          "price_lower": 0,
+          "price_upper": 15761.1103515625,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-27",
+          "price_forecast": 8597.11,
+          "price_lower": 0,
+          "price_upper": 15761.3603515625,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-28",
+          "price_forecast": 15715.84,
+          "price_lower": 15481.7,
+          "price_upper": 15832.7,
+          "confidence_width_pct": 2.23
+        },
+        {
+          "date": "2026-05-29",
+          "price_forecast": 15709.09,
+          "price_lower": 15468.53,
+          "price_upper": 15815.25,
+          "confidence_width_pct": 2.21
+        },
+        {
+          "date": "2026-05-30",
+          "price_forecast": 15706.78,
+          "price_lower": 15467.53,
+          "price_upper": 15813.04,
+          "confidence_width_pct": 2.2
+        },
+        {
+          "date": "2026-05-31",
+          "price_forecast": 15700.47,
+          "price_lower": 15456.01,
+          "price_upper": 15813.05,
+          "confidence_width_pct": 2.27
+        },
+        {
+          "date": "2026-06-01",
+          "price_forecast": 15694.15,
+          "price_lower": 15444.32,
+          "price_upper": 15798.87,
+          "confidence_width_pct": 2.26
+        },
+        {
+          "date": "2026-06-02",
+          "price_forecast": 8595.44,
+          "price_lower": 0,
+          "price_upper": 15758.2998046875,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-06-03",
+          "price_forecast": 8595.54,
+          "price_lower": 0,
+          "price_upper": 15758.48046875,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-06-04",
+          "price_forecast": 15687.36,
+          "price_lower": 15409.92,
+          "price_upper": 15772.82,
+          "confidence_width_pct": 2.31
+        },
+        {
+          "date": "2026-06-05",
+          "price_forecast": 15686.08,
+          "price_lower": 15400.34,
+          "price_upper": 15798.9,
+          "confidence_width_pct": 2.54
+        },
+        {
+          "date": "2026-06-06",
+          "price_forecast": 15687.19,
+          "price_lower": 15398.29,
+          "price_upper": 15799.2,
+          "confidence_width_pct": 2.56
+        },
+        {
+          "date": "2026-06-07",
+          "price_forecast": 15687.38,
+          "price_lower": 15398.61,
+          "price_upper": 15792.58,
+          "confidence_width_pct": 2.51
+        },
+        {
+          "date": "2026-06-08",
+          "price_forecast": 15686.89,
+          "price_lower": 15399.34,
+          "price_upper": 15800.14,
+          "confidence_width_pct": 2.55
+        },
+        {
+          "date": "2026-06-09",
+          "price_forecast": 8596.64,
+          "price_lower": 0,
+          "price_upper": 15760.5,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-06-10",
+          "price_forecast": 8596.75,
+          "price_lower": 0,
+          "price_upper": 15760.7099609375,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-06-11",
+          "price_forecast": 15693.48,
+          "price_lower": 15397.28,
+          "price_upper": 15823.4,
+          "confidence_width_pct": 2.72
+        },
+        {
+          "date": "2026-06-12",
+          "price_forecast": 15695.79,
+          "price_lower": 15382.27,
+          "price_upper": 15832.47,
+          "confidence_width_pct": 2.87
+        },
+        {
+          "date": "2026-06-13",
+          "price_forecast": 15700.77,
+          "price_lower": 15411.18,
+          "price_upper": 15851.85,
+          "confidence_width_pct": 2.81
+        },
+        {
+          "date": "2026-06-14",
+          "price_forecast": 15704.4,
+          "price_lower": 15383.1,
+          "price_upper": 15867.34,
+          "confidence_width_pct": 3.08
+        },
+        {
+          "date": "2026-06-15",
+          "price_forecast": 15705.92,
+          "price_lower": 15402.58,
+          "price_upper": 15877.84,
+          "confidence_width_pct": 3.03
+        }
+      ]
+    },
+    {
+      "commodity": "beras_super_1",
+      "city_id": "3578",
+      "city_name": "Kota Surabaya",
+      "forecast_date": "2026-05-16",
+      "horizon_days": 30,
+      "model_mode": "ENSEMBLE",
+      "prophet_weight": 0.455,
+      "avg_price": 14323.25,
+      "trend_pct": -0.56,
+      "mape_estimate": 0.09,
+      "top_features": [],
+      "predictions": [
+        {
+          "date": "2026-05-17",
+          "price_forecast": 16346.33,
+          "price_lower": 12870.7802734375,
+          "price_upper": 16425.98,
+          "confidence_width_pct": 21.75
+        },
+        {
+          "date": "2026-05-18",
+          "price_forecast": 16342.83,
+          "price_lower": 12974.08984375,
+          "price_upper": 16417.82,
+          "confidence_width_pct": 21.07
+        },
+        {
+          "date": "2026-05-19",
+          "price_forecast": 8936.37,
+          "price_lower": 0,
+          "price_upper": 16383.349609375,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-20",
+          "price_forecast": 8932.5,
+          "price_lower": 0,
+          "price_upper": 16376.240234375,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-21",
+          "price_forecast": 16323.94,
+          "price_lower": 12974.08984375,
+          "price_upper": 16396.1,
+          "confidence_width_pct": 20.96
+        },
+        {
+          "date": "2026-05-22",
+          "price_forecast": 16317.84,
+          "price_lower": 12974.08984375,
+          "price_upper": 16377.99,
+          "confidence_width_pct": 20.86
+        },
+        {
+          "date": "2026-05-23",
+          "price_forecast": 16312.4,
+          "price_lower": 12974.08984375,
+          "price_upper": 16375.4501953125,
+          "confidence_width_pct": 20.85
+        },
+        {
+          "date": "2026-05-24",
+          "price_forecast": 16310.88,
+          "price_lower": 12974.08984375,
+          "price_upper": 16375.8798828125,
+          "confidence_width_pct": 20.86
+        },
+        {
+          "date": "2026-05-25",
+          "price_forecast": 16306.71,
+          "price_lower": 12974.08984375,
+          "price_upper": 16375.900390625,
+          "confidence_width_pct": 20.86
+        },
+        {
+          "date": "2026-05-26",
+          "price_forecast": 8932.13,
+          "price_lower": 0,
+          "price_upper": 16375.580078125,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-27",
+          "price_forecast": 8932.5,
+          "price_lower": 0,
+          "price_upper": 16376.240234375,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-05-28",
+          "price_forecast": 16292.18,
+          "price_lower": 12974.08984375,
+          "price_upper": 16375.4501953125,
+          "confidence_width_pct": 20.88
+        },
+        {
+          "date": "2026-05-29",
+          "price_forecast": 16286.39,
+          "price_lower": 12974.08984375,
+          "price_upper": 16375.4501953125,
+          "confidence_width_pct": 20.88
+        },
+        {
+          "date": "2026-05-30",
+          "price_forecast": 16281.38,
+          "price_lower": 12868.830078125,
+          "price_upper": 16375.4501953125,
+          "confidence_width_pct": 21.54
+        },
+        {
+          "date": "2026-05-31",
+          "price_forecast": 16280.39,
+          "price_lower": 12868.830078125,
+          "price_upper": 16375.8203125,
+          "confidence_width_pct": 21.54
+        },
+        {
+          "date": "2026-06-01",
+          "price_forecast": 16276.94,
+          "price_lower": 12868.830078125,
+          "price_upper": 16375.8603515625,
+          "confidence_width_pct": 21.55
+        },
+        {
+          "date": "2026-06-02",
+          "price_forecast": 8932.14,
+          "price_lower": 0,
+          "price_upper": 16375.58984375,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-06-03",
+          "price_forecast": 8932.52,
+          "price_lower": 0,
+          "price_upper": 16376.2802734375,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-06-04",
+          "price_forecast": 16265.36,
+          "price_lower": 12870.7802734375,
+          "price_upper": 16375.25,
+          "confidence_width_pct": 21.55
+        },
+        {
+          "date": "2026-06-05",
+          "price_forecast": 16260.91,
+          "price_lower": 12870.7802734375,
+          "price_upper": 16375.25,
+          "confidence_width_pct": 21.55
+        },
+        {
+          "date": "2026-06-06",
+          "price_forecast": 16257.41,
+          "price_lower": 12870.7802734375,
+          "price_upper": 16375.25,
+          "confidence_width_pct": 21.56
+        },
+        {
+          "date": "2026-06-07",
+          "price_forecast": 16258.13,
+          "price_lower": 12870.7802734375,
+          "price_upper": 16375.6201171875,
+          "confidence_width_pct": 21.56
+        },
+        {
+          "date": "2026-06-08",
+          "price_forecast": 16256.57,
+          "price_lower": 12870.7802734375,
+          "price_upper": 16375.66015625,
+          "confidence_width_pct": 21.56
+        },
+        {
+          "date": "2026-06-09",
+          "price_forecast": 8932.0,
+          "price_lower": 0,
+          "price_upper": 16375.33984375,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-06-10",
+          "price_forecast": 8932.39,
+          "price_lower": 0,
+          "price_upper": 16376.0498046875,
+          "confidence_width_pct": 183.33
+        },
+        {
+          "date": "2026-06-11",
+          "price_forecast": 16251.86,
+          "price_lower": 12870.7802734375,
+          "price_upper": 16375.259765625,
+          "confidence_width_pct": 21.56
+        },
+        {
+          "date": "2026-06-12",
+          "price_forecast": 16250.0,
+          "price_lower": 12870.7802734375,
+          "price_upper": 16375.259765625,
+          "confidence_width_pct": 21.57
+        },
+        {
+          "date": "2026-06-13",
+          "price_forecast": 16249.26,
+          "price_lower": 12870.7802734375,
+          "price_upper": 16375.259765625,
+          "confidence_width_pct": 21.57
+        },
+        {
+          "date": "2026-06-14",
+          "price_forecast": 16252.86,
+          "price_lower": 12870.7802734375,
+          "price_upper": 16375.6298828125,
+          "confidence_width_pct": 21.56
+        },
+        {
+          "date": "2026-06-15",
+          "price_forecast": 16254.29,
+          "price_lower": 12870.7802734375,
+          "price_upper": 16375.669921875,
+          "confidence_width_pct": 21.56
+        }
+      ]
+    }
+  ],
+  "skipped": []
+}
